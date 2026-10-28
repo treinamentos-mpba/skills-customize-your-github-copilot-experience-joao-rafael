@@ -12,6 +12,7 @@ Todos os arquivos markdown de tarefas devem seguir estas diretrizes:
 - Os arquivos markdown de tarefas devem seguir a estrutura em [`templates/assignment-template.md`](../../templates/assignment-template.md).
 - A tarefa deve ser criada como um arquivo `README.md`
 - Não remova ou pule seções obrigatórias do template.
+- O idioma precisa ser o português brasileiro
 
 ## 2. Orientação das Seções
 
